@@ -1,7 +1,7 @@
 # Hi, I'm Elijah 👋
 
 Frontend Developer based in Dundee, Scotland.
-BSc Computer Science — University of Dundee 2025.
+BSc Computer Science — University of Dundee 2026.
 
 ## 🚀 About Me
 Self-taught frontend developer with hands-on experience building React applications, REST APIs and fullstack web projects. Passionate about clean UI and solving real problems with code.
