@@ -1,6 +1,6 @@
 # Hi, I'm Elijah 👋
 
-Frontend Developer based in Edinburgh, Scotland.
+Frontend Developer based in Dundee, Scotland.
 BSc Computer Science — University of Dundee 2025.
 
 ## 🚀 About Me
